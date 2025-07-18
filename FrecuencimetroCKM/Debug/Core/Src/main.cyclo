@@ -1,0 +1,14 @@
+../Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	2
+../Core/Src/main.c:82:5:main	2
+../Core/Src/main.c:136:6:SystemClock_Config	4
+../Core/Src/main.c:181:13:MX_TIM1_Init	5
+../Core/Src/main.c:251:13:MX_TIM2_Init	4
+../Core/Src/main.c:299:13:MX_TIM6_Init	3
+../Core/Src/main.c:337:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:372:13:MX_GPIO_Init	1
+../Core/Src/main.c:387:6:ConfiguracionPwm	1
+../Core/Src/main.c:415:6:PWMprueba	1
+../Core/Src/main.c:443:6:Configuraciontim6	1
+../Core/Src/main.c:453:6:TIM6_DAC_IRQHandler	2
+../Core/Src/main.c:460:6:TIM2_IRQHandler	3
+../Core/Src/main.c:489:6:Error_Handler	1
